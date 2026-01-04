@@ -19,7 +19,7 @@ Statistics, and Machine Learning.
 
 📫 How to reach me:
 - Email: khwira.abd@gmail.com
-- LinkedIn: (www.linkedin.com/in/abdelrahmankhwaira)
+- LinkedIn: www.linkedin.com/in/abdelrahmankhwaira
 
 ⚡ Fun fact:
 mathematics is everything.
