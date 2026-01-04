@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Abdel-Rahman-Khwaira
-- 👀 I’m interested in AI and DataScience and Robotics
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on developing AI by Mathematics
-- 📫 How to reach me "khwira.abd@gmail.com"
-- 😄 Pronouns: wow he
-- ⚡ Fun fact: I'm 23 years old but in reality i'm 30 in life experience
+👋 Hi, I’m Abdel Rahman Khwaira
+
+🎯 Aspiring Data Scientist with a strong background in Mathematics,
+Statistics, and Machine Learning.
+
+👀 I’m interested in:
+- Data Science & Machine Learning
+- Statistical Modeling & Predictive Analytics
+- AI applications driven by mathematical foundations
+
+🌱 Currently learning:
+- Advanced Machine Learning techniques
+- Model evaluation and feature engineering
+
+💞️ Open to collaborating on:
+- Data science projects
+- Machine learning models
+- Research-driven AI projects
+
+📫 How to reach me:
+- Email: khwira.abd@gmail.com
+- LinkedIn: (www.linkedin.com/in/abdelrahmankhwaira)
+
+⚡ Fun fact:
+mathematics is everything.
 
 <!---
 Abdel-Rahman-Khwaira/Abdel-Rahman-Khwaira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
