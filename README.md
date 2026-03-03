@@ -1,80 +1,85 @@
-👋 Hi, I’m Abdel Rahman Khwaira
 
-🎯 Aspiring Data Scientist with a strong background in Mathematics,
-Statistics, and Machine Learning.
+<h1 align="center">Hi, I'm Abdel Rahman Khwaira 👋</h1>
 
-👀 I’m interested in:
-- Data Science & Machine Learning
-- Statistical Modeling & Predictive Analytics
-- AI applications driven by mathematical foundations
+<p align="center">
+  <b>AI/ML Engineer in progress · Mathematics Graduate · Problem Solver · Tea Lover 🍵</b><br>
+  Amman, Jordan
+</p>
 
-🌱 Currently learning:
-- Advanced Machine Learning techniques
-- Model evaluation and feature engineering
+<p align="center">
+  <a href="https://abdel-rahman-khwaira.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdelrahmankhwaira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Abdel_Rahman_Khwaira" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="mailto:abdelrahmankhwaira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-💞️ Open to collaborating on:
-- Data science projects
-- Machine learning models
-- Research-driven AI projects
+---
 
-📫 How to reach me:
-- Email: khwira.abd@gmail.com
-- LinkedIn: www.linkedin.com/in/abdelrahmankhwaira
+## 👨‍💻 About Me
 
-⚡ Fun fact:
-mathematics is everything.
+I love solving problems — that's what led me to Mathematics, and it's what brought me to AI and Machine Learning. Here, algorithms aren't just theory; they're tools that create real impact.
 
-<!---
-Abdel-Rahman-Khwaira/Abdel-Rahman-Khwaira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hey there, I'm [Abdel Rahman Khwaira](<!---your portfolio link--->) 👋
+- 🎓 B.Sc. in Mathematics — University of Jordan (GPA: 3.49)
+- 🤖 Trained in Data Science & AI at **SHAI** and Data Analysis at **Correlation One**
+- ⚡ Built a Decision Tree classifier with **86% accuracy** on 144k+ real-world accident records
+- 🧠 Fast learner who moved across data analysis, ML, RPA, and Agentic AI in under two years
+- 🏆 Active competitive programmer on **Codeforces**
 
-**Data Scientist · Mathematics background · Tea Lover 🍵**
+---
 
-💼 **Current:** Open to work as Junior Data Scientist 
+## 🛠️ Tech Stack
 
+**Languages & ML**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 About Me
+**Data & BI**
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-I am a Data Scientist skilled in python, SQL, Statistic, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+**Automation & Tools**
 
+![Blue Prism](https://img.shields.io/badge/Blue_Prism-00AEEF?style=for-the-badge&logo=blueprism&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## 🌱 Currently Learning
 
-<br clear="right"/>
+- 🤖 Advanced ML algorithms and model optimization
+- 🧠 Large Language Models (LLMs) and RAG systems
+- 🔗 Agentic AI workflows and automation pipelines
+- 📊 Deep Learning fundamentals
 
-## 🔧 My Tech Stack
+---
 
-![Tabluea](https://img.shields.io/badge/Tabluea-F7DF1E?logo=Tabluea&logoColor=black)
-![Mathematica](https://img.shields.io/badge/Mathematica-3178C6?logo=mathematica&logoColor=white)
-![panda](https://img.shields.io/badge/panda-61DAFB?logo=panda&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![blueprism](https://img.shields.io/badge/blueprism-47A248?logo=blueprism&logoColor=white)
-![MySQL](https://img.shields.io/badge/mySQL-4479A1?logo=mysql&logoColor=fff)
-![n8n](https://img.shields.io/badge/n8n-%2321759B.svg?logo=n8n&logoColor=white)
-![python](https://img.shields.io/badge/python-%23777BB4.svg?&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🚀 Featured Project
 
+### 🚗 [UK Traffic Accidents — Analysis & Predictive Model](https://github.com/Abdel-Rahman-Khwaira/Accidents-in-UK)
+> Analyzed 144,000+ road accident records from the UK. Built and compared multiple ML models — Decision Tree achieved **86% accuracy** in predicting accident severity (3 classes). Documented bias issues and improvement roadmap.
 
-## 🎯 LeetCode Heatmap
+**Tools:** Python · Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdel-Rahman-Khwaira/Accidents-in-UK)
+[![View Datafolio](https://img.shields.io/badge/View_Datafolio-FF0000?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/presentation/d/1Mog2uuKtRYJYqC3H7imj1tcgcgCYsIg6/edit)
 
+---
 
-## 🔗 Connect with Me
+## 📄 CV & Portfolio
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://abdel-rahman-khwaira.github.io)
+[![CV](https://img.shields.io/badge/Download_CV-1A56DB?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1knXcEjJCQXC-DlUZHT_HY3lqgfmPpL-K/view)
 
-</div>
+---
+
+<p align="center">
+  <i>"I love solving problems — algorithms aren't just theory, they're tools that create real impact."</i>
+</p>
