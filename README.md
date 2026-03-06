@@ -76,7 +76,7 @@ I love solving problems — that's what led me to Mathematics, and it's what bro
 ## 📄 CV & Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://abdel-rahman-khwaira.github.io)
-[![CV](https://img.shields.io/badge/Download_CV-1A56DB?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1knXcEjJCQXC-DlUZHT_HY3lqgfmPpL-K/view)
+[![CV](https://img.shields.io/badge/Download_CV-1A56DB?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1XzQyLmlMcn5g73I6d4_2s5c4MwZNe-_K/view?usp=sharing)
 
 ---
 
